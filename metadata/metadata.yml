@@ -1,0 +1,24 @@
+metadata_version: 1
+name: Predicting RNA Site Accessibility using Deep Learning
+description: RNA site accessibility plays an essential role in various biological
+  processes like ribosome binding, miRNA associated gene regulation, RNA protein interaction
+  etc. Experimentally determination of RNA site accessibility is tedious and requires
+  much skill. Therefore in this capsule, we tried to pred RNA site accessibility using
+  deep learning. This deep learning model constitutes of embedding, CNN and Bidirectional
+  GRU layers stacked on top of each other. This model achieves a ROC curve of 0.91.
+tags:
+- RNA secondary Structure
+- RNA accessibility
+- Embedding Layer
+- Deep Learning
+authors:
+- name: Rajkumar Chakraborty
+  affiliations:
+  - name: Delhi Technological University
+- name: Shubham Mittal
+  affiliations:
+  - name: Delhi Technological University
+- name: Yasha Hasija
+  affiliations:
+  - name: Delhi Technological University
+corresponding_contributor: {}
